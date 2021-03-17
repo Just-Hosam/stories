@@ -17,7 +17,7 @@ DELETE  DELETE  /stories
 ### Contributions
 BROWSE  GET     /contributions
 <!-- READ    GET     /contributions/:id -->
-<!-- EDIT    PATCH   /contributions -->
+EDIT    PATCH   /contributions
 ADD     POST    /contributions
 DELETE  DELETE  /contributions
 
