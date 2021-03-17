@@ -1,4 +1,4 @@
-INSERT INTO users (user_id, contribution_id, isLiked) VALUES
+INSERT INTO upvotes (user_id, contribution_id, isLiked) VALUES
 (1, 1, true),
 (1, 2, true),
 (1, 3, true),
@@ -10,4 +10,4 @@ INSERT INTO users (user_id, contribution_id, isLiked) VALUES
 (2, 3, true),
 (2, 4, true),
 (2, 5, true),
-(2, 6, true),
+(2, 6, true);
